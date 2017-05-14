@@ -7,6 +7,10 @@ If you are interested to learn PHP programming language or Web development in ge
 I highly recommended that you provide your own YouTube API Key because there is a possibility of restriction my API Key due to a large number of polling / calling YT web services. If you don't know how to make your own YT API Key you can watch this tutorial or just search on google: https://www.slickremix.com/docs/get-api-key-for-youtube/
 With this plugin you can present or show not just your own playlist / channel videos but whichever YT channel or playlist videos you want. 
 
+API Key for testing: AIzaSyDHvX_7ah-xEaoMQKclf2fNanDSJa6FVO8
+
+
+
 INSTALATION INSTRUCTION :
 
 1. Download or clone .zip file
