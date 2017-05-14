@@ -24,10 +24,10 @@ INSTALATION INSTRUCTION :
 9. In sidebar section click on YT video gallery widget and insert your API key, Channel ID or Playlist ID.
 10. That's it.
 
-Watch video tutorial how to install and use YT playlist gallery plugin:
+Watch video tutorial how to install and use YT playlist gallery plugin: https://youtu.be/HJQ48Hg8LEQ
 
 PLUGIN OPTIONS :
 
 After instaling this plugin, at the bottom of dashboard / admin options you will see YT playlist Gallery options page. In this page you can customize video width, height,background color and limit number of videos on page. By default, width is 550px, height is 250px, background color is #FFF or white and limit is empty. These options except limit are just for first video on sidebar (the biggest one). With limit options you can show / present number of playlist or channel videos what ever you want.
 
-Plase watch video tutorial how to install and use YT playlist gallery plugin with explanation.
+Plase watch video tutorial how to install and use YT playlist gallery plugin with explanation: https://youtu.be/HJQ48Hg8LEQ
